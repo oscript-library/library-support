@@ -48,8 +48,7 @@
                 "build",
                 "-d",
                 "work",
-                "opm",
-                "logos"
+                "*"
             ],
             "echoCommand": true,
             "showOutput": "always",
