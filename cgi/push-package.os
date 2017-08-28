@@ -1,4 +1,4 @@
-#!oscript -cgi
+#!/usr/bin/oscript-cgi
 
 #Использовать fs
 #Использовать json
